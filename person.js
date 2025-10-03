@@ -4,4 +4,6 @@ class Person {
   #country
   #name1
   
+  #city
+  #salery
 }

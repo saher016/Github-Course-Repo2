@@ -1,5 +1,4 @@
 class Person {
-  #name
-  #age
-
+  #name1
+  
 }
